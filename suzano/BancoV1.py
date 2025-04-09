@@ -40,7 +40,7 @@ Limite para saque é de R${limite}""")
 ==========ERROR==========
 Por favor insira um valor valido""")
         elif saques == LIMITE_SAQUE :
-            print("Infelismente sua conta chegou ao limite de saques. Tente novamente amanhã quando o limite reiniciar ")
+            print("Infelizmente sua conta chegou ao limite de saques. Tente novamente amanhã quando o limite reiniciar ")
         elif valor > saldo : 
             print("""
 ==========ERROR==========
